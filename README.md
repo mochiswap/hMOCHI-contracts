@@ -1,4 +1,3 @@
-Mochiswap Farms
 # hMOCHI-contracts
 
 These contracts comprise the hMOCHI token and farms.

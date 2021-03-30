@@ -1,0 +1,18 @@
+First 3 Harmony Pools and weights:
+
+ID: 0
+LP: 0x4b2343Ccf2F882942514084F29Bd92950752aab3
+Symbol: BUSD-bscBUSD
+Weighting: 1000
+
+ID: 1
+LP: 0xf141245E0aed6F7E456059aa834AF89Ac9339136
+Symbol: ONE-bscMOCHI
+Weighting: 1000
+
+ID: 2
+LP: 0x77f6998A0eB09a5ba24d3B8c6e747Cc1A0Fc6CA5
+Symbol: BUSD-bscMOCHI
+Weighting: 1000
+
+The 1000 is arbitrary since they are all the same. These three pools are currently equally incentivized.
